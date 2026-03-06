@@ -36,6 +36,7 @@ body{
 .help-card{
     border-radius:12px;
     box-shadow:0 4px 20px rgba(0,0,0,0.1);
+    height:100%;
 }
 
 .help-header{
@@ -43,6 +44,16 @@ body{
     color:white;
     padding:35px;
     border-radius:15px;
+}
+
+/* make cards equal height */
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.row > div{
+    display:flex;
 }
 
 </style>
