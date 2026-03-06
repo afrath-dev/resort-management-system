@@ -10,3 +10,12 @@ Ocean View Resort Reservation System (Java JSP Project)
 - Admin Dashboard for Monitoring Reservations
 - Search Functionality
 - Help Pages for Users and Admin
+
+## Technologies Used
+
+- Java
+- JSP / Servlets
+- MySQL
+- Apache Tomcat
+- Bootstrap
+- Git & GitHub
