@@ -68,7 +68,7 @@ body {
 
 		<div class="receipt-card">
 
-			<h3 class="text-center mb-4">-- Ocean View Resort --</h3>
+			<h3 class="text-center mb-4">--- Ocean View Resort ---</h3>
 
 			<hr>
 
